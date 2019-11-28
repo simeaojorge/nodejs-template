@@ -1,6 +1,8 @@
 # TEMPLATE FOR AN EXPRESS API
 
-Making easy the development of a next express api
+Making easy the development of a next express api.__ 
 
-Jorge David Simeão Júnior
-jorge_simeao@hotmail.com
+Fell free to use =D__
+
+Jorge David Simeão Júnior__
+jorge_simeao@hotmail.com__
